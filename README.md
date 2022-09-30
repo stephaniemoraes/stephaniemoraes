@@ -1,4 +1,4 @@
-## Hi! I'm Stéphanie Moraes, but you can call me Téph.
+## Oi! Sou Stéphanie Moraes, mas pode me chamar de Téph.
 
 - 🔭 I’m currently working on facilitating the student experience.
 - 🌱 I’m currently learning project management.
