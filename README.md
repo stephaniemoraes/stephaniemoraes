@@ -1,6 +1,6 @@
 ## Oi! Sou Stéphanie Moraes, mas pode me chamar de Téph.
 
-Antes de qualquer título acadêmico ou experiência profissional sou apaixonada por aprender e compartilhar conhecimento. Atuo a mais de 5 anos com planejamento estratégico, gestão de projetos , com experiências em startups e negócios de impacto social.
+Antes de qualquer título acadêmico ou experiência profissional sou apaixonada por aprender e compartilhar conhecimento. Atuo a mais de 5 anos com planejamento estratégico e gestão de projetos, com experiências em startups e negócios de impacto social.
 
 <div align="center">
   <a href="https://github.com/stephaniemoraes">
