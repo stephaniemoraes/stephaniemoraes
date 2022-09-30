@@ -12,4 +12,8 @@ Antes de qualquer título acadêmico ou experiência profissional sou apaixonada
 <a href="https://www.instagram.com/stephanie.mmoraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Senhor Geri](https://github.com/stephaniemoraes/stephaniemoraes/blob/main/tumblr_2d5f6dc63ee914cb593d1befbf4cd820_974913e5_400.gif)
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
