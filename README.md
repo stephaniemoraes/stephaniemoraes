@@ -12,9 +12,3 @@ Antes de qualquer título acadêmico ou experiência profissional sou apaixonada
 <a href="https://www.instagram.com/stephanie.mmoraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCt2f81ShocCJRyivwqxDD6w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/stephaniemoraes/stephaniemoraes/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
