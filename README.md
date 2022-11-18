@@ -15,6 +15,6 @@ Antes de qualquer título acadêmico ou experiência profissional sou apaixonada
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/stephaniemoraes/stephaniemoraes/blob/output/github-contribution-grid-snake.svg)
   
 </div>
