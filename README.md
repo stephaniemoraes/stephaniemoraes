@@ -6,7 +6,11 @@ When I contributed to achieving 133% of the goal of a national project in which 
 
 I have more than 5 years working as a team and project manager, having worked at startups (Zig. The Global Funtech and Trybe) and 3rd sector (TETO Brasil), with consolidated experience in planning, organizing and monitoring projects, and leading multidisciplinary teams.
 
-## 🤝🏻Connect with Me
+<div align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZzcHlidzB1a2h5cG9jZGJvdW4zOGxlbDRycGg3enRneG5tcmw5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeBeB9rR524RW/giphy.gif" width="600" alt="Gamer Room">  
+</div>
+
+## 🤝🏻Connect with me
 
 <div>
   <a href="https://www.goodreads.com/user/show/161335548-st-phanie-santos" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a>
