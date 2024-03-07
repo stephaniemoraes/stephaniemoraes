@@ -14,6 +14,10 @@ I have more than 5 years working as a team and project manager, having worked at
 
 I currently dedicate my studies to deepening the techniques for developing solutions and products. After completing PM3's Product Management training, I'm taking the UX Design training offered by Google. I want and am available to work with development teams and collaborate in achieving their goals.
 
+## 💻Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ## 🤝🏻Connect with me
 
 <div>
