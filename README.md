@@ -1,4 +1,4 @@
-## 👋🏼Hi! I'm Stéphanie Santos, but you can call me Téph.
+# 👋🏼Hi! I'm Stéphanie Santos, but you can call me Téph.
 
 Before any academic title or professional experience, I'm passionate about learning and sharing knowledge.
 
